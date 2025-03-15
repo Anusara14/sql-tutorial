@@ -132,7 +132,7 @@ SELECT * FROM Courses ORDER BY CourseDuration ASC;
 
 ---
 
-## **5. Aggregation (Separate Tables)**
+## **5. Aggregation**
 
 ### **Total Students**
 ```sql
