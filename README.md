@@ -1,3 +1,4 @@
+
 # **SQL Commands Tutorial & Outputs**
 
 ---
@@ -327,3 +328,7 @@ INSERT INTO Students (FirstName, LastName, Email, EnrollmentDate) VALUES ('Sophi
 DELETE FROM Students WHERE StudentID = 5;
 ```
 ✅ **Student removed**
+
+---
+
+This is the **complete and final SQL tutorial** with structured commands and formatted output tables.
